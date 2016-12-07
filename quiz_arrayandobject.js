@@ -16,7 +16,7 @@ console.log(myArray[2]);
 var knight = "Arthur";
 
 function bridgeMonster(boy){
-  if ("boy" == "stranger danger") {
+  if (boy == "stranger danger") {
     console.log("You Shall Not Pass!");
   }
 }
